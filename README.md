@@ -24,9 +24,12 @@ A production-ready, data-driven project management and field telemetry dashboard
 
 ## 📸 Core Workspace Architecture Viewports
 *(Replace these placeholder paths with your actual screenshots saved inside your local project)*
-* **Operations Control Center Dashboard:** `![Dashboard View](./screenshots/system_dashboard.png)`
-* **Geospatial Asset Mapping:** `![Map Analytics View](./screenshots/mapView.png)`
-* **Field Photography Evidence Engine:** `![Media Gallery View](./screenshots/Financial_Revenue.png)`
+* **Operations Control Center Dashboard:** 
+![Dashboard View](./screenshots/system_dashboard.png)
+* **Geospatial Asset Mapping:** 
+![Map Analytics View](./screenshots/mapView.png)
+* **Field Photography Evidence Engine:** 
+![Media Gallery View](./screenshots/Financial_Revenue.png)
 
 ## 💻 Local Installation & Initialization
 To review the operational execution layers of this platform inside a local workspace environment, utilize these terminal instructions:
